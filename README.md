@@ -21,7 +21,7 @@ Effortlessly convert currencies with our user-friendly online currency converter
 
 
 ## Link to the website
-Website address: [Cosmic Codebreaker](http://the-dream.infinityfreeapp.com/)
+Website address: [Currency Converter](http://the-dream.infinityfreeapp.com/)
 
 
 ## Technologies used
